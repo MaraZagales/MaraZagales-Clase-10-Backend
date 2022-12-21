@@ -1,0 +1,22 @@
+<div class="container">
+<h2>Ingrese Producto:</h2>
+
+<form action="http://localhost:8080/api/productos" method="post">
+                <div class="form-group">
+                    <label>Nombre</label>
+                    <input class="form-control" type="text" name="title">
+                </div>
+                <div class="form-group">
+                    <label>Precio</label>
+                    <input class="form-control" type="text" name="price">
+                </div>
+                <div class="form-group">
+                    <label>Foto URL</label>
+                    <input class="form-control" type="text" name="thumbnail">
+                </div>
+                <button class="btn btn-success mt-3 mb-5">Enviar</button>
+            </form>
+
+
+<a href="http://localhost:8080/api/productos/listado" class="btn btn-success mt-3 mb-5">Productos</a>
+</div>

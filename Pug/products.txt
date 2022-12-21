@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Escritorio",
+    "price": 15000,
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/household-things/64/house_desk-256.png"
+  },
+  {
+    "id": 2,
+    "title": "Rack Tv",
+    "price": 20000,
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/furniture-2033/32/tv__table-256.png"
+  },
+  {
+    "id": 3,
+    "title": "Mesa Ratona",
+    "price": 10000,
+    "thumbnail": "https://cdn1.iconfinder.com/data/icons/furniture-422/64/desk_furniture_interior_table_decoration_12-256.png"
+  }
+]
